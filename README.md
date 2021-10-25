@@ -1,12 +1,14 @@
 
 
-# StackblitzNxReact
+# Stackblitz Nx React
 
 This project was generated using [Nx](https://nx.dev).
 
 <p style="text-align: center;"><img src="https://raw.githubusercontent.com/nrwl/nx/master/images/nx-logo.png" width="450"></p>
 
 🔎 **Smart, Extensible Build Framework**
+
+[![Open in StackBlitz](https://developer.stackblitz.com/img/open_in_stackblitz.svg)](https://stackblitz.com/github/nrwl/stackblitz-nx-react)
 
 ## Adding capabilities to your workspace
 
